@@ -1,0 +1,12 @@
+{
+  "name": "AIBABA",
+  "version": "1.0.0",
+  "description": "AIBABA project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
